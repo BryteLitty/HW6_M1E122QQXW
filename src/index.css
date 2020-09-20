@@ -1,0 +1,51 @@
+.topContainer{
+  color: red;
+}
+
+.box{
+  border: 1px solid transparent;
+  border-radius: 5px;
+  box-shadow: 1px 1px 5px rgba(255, 61, 0, 0.1);
+}
+
+.counterPara{
+  font-size: 20px;
+}
+
+.icons{
+  font-size: 14px;
+  color: red;
+}
+
+.icons-green{
+  color: green;
+}
+
+.innerBoxPadding{
+ padding-top: 10px;
+ padding-bottom: 70px; 
+}
+
+.inner-box{
+  background-color: rgba(255, 61, 0, 0.1);
+  color: red;
+  text-align: center;
+
+  border: 1px solid transparent;
+  border-radius: 5px;
+}
+
+.side-box{
+  border: 1px solid transparent;
+  border-radius: 5px;
+  box-shadow: 1px 1px 5px rgba(59, 68, 11, 0.3);
+}
+
+.start-container{
+  margin-top: 30px;
+}
+
+.move{
+  padding-top: 10%;
+}
+
